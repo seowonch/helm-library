@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  appmesh-test:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2023-02-14T17:08:07.665247+09:00"
+    description: appmesh-test application
+    digest: 2246a640ef79c1afa1cb6fc43c2136f982ba0a75c4f0f5d7cfa786707e6ebeab
+    name: appmesh-test
+    urls:
+    - appmesh-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-14T17:08:07.664746+09:00"
